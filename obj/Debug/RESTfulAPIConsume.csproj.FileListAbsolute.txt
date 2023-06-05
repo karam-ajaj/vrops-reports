@@ -1,0 +1,190 @@
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\RESTfulAPIConsume.exe.config
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\RESTfulAPIConsume.exe
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\RESTfulAPIConsume.pdb
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\netstandard.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.AppContext.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Collections.Concurrent.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Collections.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Collections.NonGeneric.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Collections.Specialized.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.ComponentModel.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.ComponentModel.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Console.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Data.Common.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.Contracts.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.Debug.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.Process.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.Tools.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Diagnostics.Tracing.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Drawing.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Dynamic.Runtime.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Globalization.Calendars.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Globalization.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Globalization.Extensions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.Compression.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.FileSystem.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.IsolatedStorage.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.Pipes.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Linq.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Linq.Expressions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Linq.Parallel.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Linq.Queryable.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Http.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.NameResolution.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.NetworkInformation.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Ping.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Requests.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Security.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Sockets.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.WebSockets.Client.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.WebSockets.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.ObjectModel.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Reflection.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Reflection.Extensions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Reflection.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Resources.Reader.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Resources.ResourceManager.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Resources.Writer.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.Extensions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.Handles.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.InteropServices.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.Numerics.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Security.Claims.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Security.Principal.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Security.SecureString.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Text.Encoding.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Text.RegularExpressions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Threading.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Threading.Overlapped.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Threading.Tasks.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Threading.Thread.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Threading.ThreadPool.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Threading.Timer.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.ValueTuple.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Xml.ReaderWriter.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Xml.XDocument.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Xml.XmlDocument.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Xml.XmlSerializer.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Xml.XPath.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\DalSoft.RestClient.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Flurl.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Flurl.Http.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Http.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Options.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Newtonsoft.Json.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\RestSharp.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.Client.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.Common.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.Interfaces.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.Text.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Buffers.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Memory.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Http.Extensions.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Http.Formatting.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Net.Http.Primitives.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Numerics.Vectors.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Flurl.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Flurl.Http.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Http.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Options.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\Newtonsoft.Json.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\RestSharp.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.Client.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.Common.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\ServiceStack.Text.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Buffers.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Memory.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Numerics.Vectors.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.csproj.AssemblyReference.cache
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.csproj.CoreCompileInputs.cache
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.exe
+C:\repo\RESTfulAPIConsume\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.pdb
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\RESTfulAPIConsume.exe.config
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\RESTfulAPIConsume.exe
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\RESTfulAPIConsume.pdb
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\netstandard.dll
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Flurl.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Flurl.Http.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Http.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Options.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\Newtonsoft.Json.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\RestSharp.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\ServiceStack.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\ServiceStack.Client.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\ServiceStack.Common.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\ServiceStack.Text.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\System.Buffers.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\System.Memory.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\System.Numerics.Vectors.xml
+D:\SSIS Projects\RESTfulAPIConsume\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SSIS Projects\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.csproj.AssemblyReference.cache
+D:\SSIS Projects\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.csproj.CoreCompileInputs.cache
+D:\SSIS Projects\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.csproj.CopyComplete
+D:\SSIS Projects\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.exe
+D:\SSIS Projects\RESTfulAPIConsume\obj\Debug\RESTfulAPIConsume.pdb
+D:\SSIS Projects\RESTfulAPIConsume\vro01-cus-ehv\bin\Debug\RESTfulAPIConsume.exe.config
+D:\SSIS Projects\RESTfulAPIConsume\vro01-cus-ehv\bin\Debug\RESTfulAPIConsume.exe
+D:\SSIS Projects\RESTfulAPIConsume\vro01-cus-ehv\bin\Debug\RESTfulAPIConsume.pdb
+D:\SSIS Projects\RESTfulAPIConsume\vro01-cus-ehv\obj\Debug\RESTfulAPIConsume.csproj.CoreCompileInputs.cache
+D:\SSIS Projects\RESTfulAPIConsume\vro01-cus-ehv\obj\Debug\RESTfulAPIConsume.csproj.CopyComplete
+D:\SSIS Projects\RESTfulAPIConsume\vro01-cus-ehv\obj\Debug\RESTfulAPIConsume.exe
+D:\SSIS Projects\RESTfulAPIConsume\vro01-cus-ehv\obj\Debug\RESTfulAPIConsume.pdb
